@@ -1,8 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\book-review\\app\\Http",
-    "\\book-review\\app\\Http\\Controllers"
+    "\\book-review"
   ],
+  "SelectedNode": "\\book-review\\.gitignore",
   "PreviewInSolutionExplorer": true
 }
